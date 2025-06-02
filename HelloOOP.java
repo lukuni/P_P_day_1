@@ -1,11 +1,11 @@
 public class Main {
     public static void main(String[] args) {
 
-        Person person1 = new Person("John Doe", 30);
+        Person person1 = new Person("Khulan", 30);
 
         person1.greet();
 
-        Person person2 = new Person("Jane Smith", 25);
+        Person person2 = new Person("Naraa", 25);
 
         person2.greet();
     }
